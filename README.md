@@ -69,10 +69,12 @@ Se calcula sumando el TF-IDF de cada palabra de la consulta:
 
 ### 🔍 Consulta 1:
 
+
+
 ---
 
 ## 👨‍💻 Autor
-- Tu nombre
+- Jholman Camilo Diaz Osuna 
 
 ---
 
