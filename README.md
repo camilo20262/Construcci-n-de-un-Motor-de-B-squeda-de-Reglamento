@@ -70,7 +70,7 @@ Se calcula sumando el TF-IDF de cada palabra de la consulta:
 ### 🔍 Consulta 1:
 
 
-![Evidencia de ejecución del script](rag.png)
+![Evidencia de ejecución del script](rag.jpeg)
 
 ---
 
